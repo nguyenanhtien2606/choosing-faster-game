@@ -11,6 +11,9 @@ A mini-game base on idea of Pummel Party. This is a demo version, just game core
       <li>16:9 (ex: 1920x1080) <b>(best case)</b></li>
       <li>16:10</li>
       <li>4:3</li>
-    </ul
+    </ul>
   </li>
+  <li><b>File build game: in folder [Build]. You can download and install into your phone and enjoy it. Have Fun!</li>
 </ol>
+
+***If have any question, feel free to contact me: natien2606@gmail.com
