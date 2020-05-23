@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Tien.Nguyen/Scenes/Scene 1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
